@@ -1,0 +1,12 @@
+{
+    "editor.acceptSuggestionOnEnter": "smart",
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "editor.suggest.shareSuggestSelections": true,
+    "editor.suggest.showStatusBar": true
+}
